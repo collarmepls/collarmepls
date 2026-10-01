@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://keepitshrill.crosses7777.workers.dev/" alt="Days since May 18, 2025" />
+  <img src="https://keepitshrill.crosses7777.workers.dev/?v=2" alt="Days since May 18, 2025" />
 </p>
 
 # Hey, I'm Solace 👋
