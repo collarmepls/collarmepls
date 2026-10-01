@@ -1,4 +1,6 @@
-![Logo](https://ik.imagekit.io/sbick8z0h/rando.jpg?updatedAt=1757612208455)
+<p align="center">
+  <img src="https://keepitshrill.crosses7777.workers.dev/" alt="Days since May 18, 2025" />
+</p>
 
 # Hey, I'm Solace 👋
 ### aka Winter
